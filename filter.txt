@@ -1,4 +1,8 @@
 [uBlock Origin]
+! Title: Anti-FNF
+! Homepage: https://github.com/MatusOllah/ublock-anti-fnf
+! GitHub repository: https://github.com/MatusOllah/ublock-anti-fnf
+! License: https://github.com/MatusOllah/ublock-anti-fnf/blob/main/LICENSE
 
 ! ===== Global filters =====
 ##:has-text(/fnf/i)
