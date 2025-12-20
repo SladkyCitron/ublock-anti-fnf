@@ -1,0 +1,36 @@
+[uBlock Origin]
+
+! ===== Global filters =====
+##:has-text(/fnf/i)
+##:has-text(/funkin/i)
+##body:has-text(/fnf|funkin/i)
+
+! ===== YouTube =====
+youtube.com##ytd-video-renderer:has-text(/fnf|friday night funkin/i)
+youtube.com##ytd-thumbnail:has(a[href*="fnf"])
+youtube.com##ytd-thumbnail:has(a[href*="friday-night-funkin"])
+youtube.com##ytd-comment-renderer:has-text(/fnf|friday night funkin/i)
+youtube.com##ytd-channel-renderer:has-text(/fnf/i)
+
+! Additional YouTube keywords (characters)
+youtube.com##ytd-video-renderer:has-text(/boyfriend|girlfriend|whitty|tricky|zardy|bf|gf/i)
+
+! ===== DeviantArt =====
+deviantart.com##.torpedo-thumb-link:has-text(/fnf/i)
+deviantart.com##img[alt*="fnf"]
+deviantart.com##img[alt*="friday night funkin"]
+
+! ===== Itch =====
+itch.io##.game_cell:has-text(/fnf|friday night funkin/i)
+itch.io##a[href*="fnf"]
+
+! ===== Reddit =====
+reddit.com##div:has-text(/fnf/i)
+reddit.com##a[href*="r/FridayNightFunkin"]
+
+! ===== GameBanana =====
+gamebanana.com##.listing-item:has-text(/fnf|funkin/i)
+gamebanana.com##.gb-mod-card:has-text(/fnf|funkin/i)
+gamebanana.com##a[href*="fnf"]
+gamebanana.com##a[href*="friday-night-funkin"]
+gamebanana.com##a[href*="https://gamebanana.com/games/8694"]
