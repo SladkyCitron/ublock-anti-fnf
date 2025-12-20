@@ -37,3 +37,6 @@ gamebanana.com##a[href*="https://gamebanana.com/games/8694"]
 gamebanana.com##img[src*="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"]
 gamebanana.com##img[src*="https://images.gamebanana.com/img/ico/ModCategory/68796321e4997.png"]
 gamebanana.com##div.Record:has(img[src*="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"])
+gamebanana.com##div.PreviewWrapper:has(img[src*="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"])
+gamebanana.com##div.Title:has-text(/fnf/i)
+gamebanana.com##div.Title:has-text(/funkin/i)
