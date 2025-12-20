@@ -8,6 +8,11 @@
 ##[alt*="Friday Night Funkin'"]
 ##[alt*="FNF"]
 
+! ===== Domains =====
+||fridaynightfunkin.fandom.com^
+||fnfmods.com^
+||funkin.me^
+
 ! ===== YouTube =====
 youtube.com##ytd-video-renderer:has-text(/fnf|friday night funkin/i)
 youtube.com##ytd-thumbnail:has(a[href*="fnf"])
