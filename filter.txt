@@ -152,14 +152,14 @@ isladejuegos.com##a[href*="super-friday-night-funki"]
 1001jeux.fr##a[href*="super-friday-night-funki"]
 
 ||giochixl.it/abilita/friday-night-sprunki^
-giochixl.it##a[href*="friday-night-sprunki"]
+giochixl.it##div.game-card:has(a[href*="friday-night-sprunki"])
 ||giochixl.it/abilita/super-friday-night-funki^
-giochixl.it##a[href*="super-friday-night-funki"]
+giochixl.it##div.game-card:has(a[href*="super-friday-night-funki"])
 
 ||jatekokxl.hu/ugyesseg/friday-night-sprunki^
-jatekokxl.hu##a[href*="friday-night-sprunki"]
+jatekokxl.hu##div.game-card:has(a[href*="friday-night-sprunki"])
 ||jatekokxl.hu/ugyesseg/super-friday-night-funki^
-jatekokxl.hu##a[href*="super-friday-night-funki"]
+jatekokxl.hu##div.game-card:has(a[href*="super-friday-night-funki"])
 
 ||elkspel.nl/behendigheid/friday-night-sprunki^
 elkspel.nl##a[href*="friday-night-sprunki"]
@@ -187,9 +187,9 @@ grajteraz.pl##a[href*="super-friday-night-funki"]
 1001jogos.com.br##a[href*="super-friday-night-funki"]
 
 ||1001jocuri.ro/abilitate/friday-night-sprunki^
-1001jocuri.ro##a[href*="friday-night-sprunki"]
+1001jocuri.ro##div.game-card:has(a[href*="friday-night-sprunki"])
 ||1001jocuri.ro/abilitate/super-friday-night-funki^
-1001jocuri.ro##a[href*="super-friday-night-funki"]
+1001jocuri.ro##div.game-card:has(a[href*="super-friday-night-funki"])
 
 ||1001pelit.com/taito/friday-night-sprunki^
 1001pelit.com##a[href*="friday-night-sprunki"]
@@ -202,9 +202,9 @@ spelo.se##a[href*="friday-night-sprunki"]
 spelo.se##a[href*="super-friday-night-funki"]
 
 ||paixnidiaxl.gr/skill/friday-night-sprunki^
-paixnidiaxl.gr##a[href*="friday-night-sprunki"]
+paixnidiaxl.gr##div.game-card:has(a[href*="friday-night-sprunki"])
 ||paixnidiaxl.gr/skill/super-friday-night-funki^
-paixnidiaxl.gr##a[href*="super-friday-night-funki"]
+paixnidiaxl.gr##div.game-card:has(a[href*="super-friday-night-funki"])
 
 ! == GameBanana
 gamebanana.com##a[href*="https://gamebanana.com/games/8694"]
