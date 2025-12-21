@@ -226,6 +226,9 @@ gamebanana.com##div.PreviewWrapper:has(img[src="https://images.gamebanana.com/im
 gamebanana.com##div.Title:has-text(/fnf|funkin/i)
 gamebanana.com##a.Slide:has(img[src="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"])
 ||gamebanana.com/mods/358769^
+||gamebanana.com/games/8694^
+||images.gamebanana.com/img/ico/games/62082c1edaf3d.png^
+||images.gamebanana.com/img/ico/ModCategory/68796321e4997.png^
 
 ! == ModDB
 ||moddb.com/games/friday-night-funkin^
