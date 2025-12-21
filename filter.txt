@@ -4,45 +4,98 @@
 ! GitHub repository: https://github.com/MatusOllah/ublock-anti-fnf
 ! License: https://github.com/MatusOllah/ublock-anti-fnf/blob/main/LICENSE
 
-! ===== Global filters =====
-##[alt*="Friday Night Funkin'"]
-##[alt*="FNF"]
+! == Global filters
+##*:has-text(/friday night funkin/i)
+##img[alt*="Friday Night Funkin'"]
+##img[alt*="FNF"]
 
-! ===== Domains =====
+! == Domains
 ||fridaynightfunkin.fandom.com^
-||fnfmods.com^
+||fridaynightfunkin.wiki.gg^
+||fnfmods.net^
+||fnfunkin.com^
 ||funkin.me^
 
-! ===== YouTube =====
+! == Newgrounds + Ungrounded CDN (this WILL break the entire website)
+||newgrounds.com^
+||newgrounds.io^
+||uploads.ungrounded.net^
+
+! == Wikipedia
+||en.wikipedia.org/wiki/Friday_Night_Funkin^
+wikipedia.org##a[href*="Friday_Night_Funkin"]
+
+! == GitHub
+github.com##a[href*="FunkinCrew"]
+github.com##span.repo:has-text(/funkin/i)
+||github.com/FunkinCrew^
+||github.com/*/Funkin^
+||github.com/*/Friday-Night-Funkin^
+||github.com/*/FridayNightFunkin^
+||github.com/*/friday-night-funkin^
+||github.com/*/funkin^
+||github.com/KadeDev/Kade-Engine^
+||github.com/ShadowMario/FNF-PsychEngine^
+||github.com/CodenameCrew/CodenameEngine^
+||github.com/ModdingPlus/ModdingPlus^
+||github.com/EnigmaEngine/Enigma^
+||github.com/FPS-Plus/FPS-Plus^
+||github.com/*/PsychEngine^
+||github.com/*/Kade-Engine^
+||github.com/*/FNF-Godot-Engine^
+||github.com/*/FNF-Genesis-Engine^
+||github.com/*/Slushi-Engine^
+||github.com/*/FNF-LOVE^
+||github.com/*/funkin-love^
+||github.com/*/awesome-funkin-resources^
+||github.com/*/funkin-resources^
+||github.com/topics/fnf^
+||github.com/topics/funkin^
+||github.com/topics/friday-night-funkin^
+github.com##article:has-text(/fnf|friday night funkin|funkin/i)
+
+! == X (formerly known as Twitter)
+x.com##article:has-text(/fnf|friday night funkin/i)
+x.com##img[alt*="fnf"]
+x.com##img[alt*="funkin"]
+
+! == TikTok
+tiktok.com##div:has-text(/fnf|friday night funkin/i)
+tiktok.com##a[href*="fnf"]
+
+! == YouTube
 youtube.com##ytd-video-renderer:has-text(/fnf|friday night funkin/i)
 youtube.com##ytd-thumbnail:has(a[href*="fnf"])
 youtube.com##ytd-thumbnail:has(a[href*="friday-night-funkin"])
 youtube.com##ytd-comment-renderer:has-text(/fnf|friday night funkin/i)
 youtube.com##ytd-channel-renderer:has-text(/fnf/i)
+youtube.com##ytd-video-renderer:has-text(/(fnf|friday night funkin).*(boyfriend|girlfriend|bf|gf)/i)
 
-! Additional YouTube keywords (characters)
-youtube.com##ytd-video-renderer:has-text(/boyfriend|girlfriend|whitty|tricky|zardy|bf|gf/i)
-
-! ===== DeviantArt =====
+! == DeviantArt
 deviantart.com##.torpedo-thumb-link:has-text(/fnf/i)
 deviantart.com##img[alt*="fnf"]
 deviantart.com##img[alt*="friday night funkin"]
 
-! ===== Itch =====
+! == Itch
 itch.io##.game_cell:has-text(/fnf|friday night funkin/i)
 itch.io##a[href*="fnf"]
 ||ninjamuffin99.itch.io^
 
-! ===== Reddit =====
+! == Reddit
 reddit.com##div:has-text(/fnf/i)
 reddit.com##a[href*="r/FridayNightFunkin"]
 
-! ===== GameBanana =====
+! == Scratch
+scratch.mit.edu##a:has-text(/fnf|funkin/i)
+
+! === Roblox
+roblox.com##a:has-text(/fnf|funkin/i)
+
+! == GameBanana
 gamebanana.com##a[href*="https://gamebanana.com/games/8694"]
 gamebanana.com##img[src*="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"]
 gamebanana.com##img[src*="https://images.gamebanana.com/img/ico/ModCategory/68796321e4997.png"]
 gamebanana.com##div.Record:has(img[src*="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"])
 gamebanana.com##div.PreviewWrapper:has(img[src*="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"])
-gamebanana.com##div.Title:has-text(/fnf/i)
-gamebanana.com##div.Title:has-text(/funkin/i)
+gamebanana.com##div.Title:has-text(/fnf|funkin/i)
 gamebanana.com##a.Slide:has(img[src*="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"])
