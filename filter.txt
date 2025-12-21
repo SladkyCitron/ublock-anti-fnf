@@ -39,8 +39,6 @@
 wikipedia.org##a[href*="Friday_Night_Funkin"]
 
 ! == GitHub
-github.com##a[href*="FunkinCrew"]
-github.com##span.repo:has-text(/funkin/i)
 ||github.com/FunkinCrew^
 ||github.com/*/Funkin^
 ||github.com/*/Friday-Night-Funkin^
@@ -68,27 +66,29 @@ github.com##span.repo:has-text(/funkin/i)
 ||github.com/topics/fnf^
 ||github.com/topics/funkin^
 ||github.com/topics/friday-night-funkin^
+github.com##a[href*="FunkinCrew"]
+github.com##span.repo:has-text(/funkin/i)
 
 ! == X (formerly known as Twitter)
+||x.com/kawaisprite^
+||x.com/ninjamuffin99^
 x.com##article:has-text(/fnf|friday night funkin/i)
 x.com##img[alt*="fnf"]
 x.com##img[alt*="funkin"]
-||x.com/kawaisprite^
-||x.com/ninjamuffin99^
 
 ! == TikTok
 tiktok.com##div:has-text(/fnf|friday night funkin/i)
 tiktok.com##a[href*="fnf"]
 
 ! == YouTube
+||youtube.com/kawaisprite^
+||youtube.com/ninjamuffin99^
 youtube.com##ytd-video-renderer:has-text(/fnf|friday night funkin/i)
 youtube.com##ytd-thumbnail:has(a[href*="fnf"])
 youtube.com##ytd-thumbnail:has(a[href*="friday-night-funkin"])
 youtube.com##ytd-comment-renderer:has-text(/fnf|friday night funkin/i)
 youtube.com##ytd-channel-renderer:has-text(/fnf/i)
 youtube.com##ytd-video-renderer:has-text(/(fnf|friday night funkin).*(boyfriend|girlfriend|bf|gf)/i)
-||youtube.com/kawaisprite^
-||youtube.com/ninjamuffin99^
 
 ! == DeviantArt
 deviantart.com##.torpedo-thumb-link:has-text(/fnf/i)
@@ -96,9 +96,9 @@ deviantart.com##img[alt*="fnf"]
 deviantart.com##img[alt*="friday night funkin"]
 
 ! == Itch
+||ninjamuffin99.itch.io^
 itch.io##.game_cell:has-text(/fnf|friday night funkin/i)
 itch.io##a[href*="fnf"]
-||ninjamuffin99.itch.io^
 
 ! == Reddit
 ||reddit.com/r/FridayNightFunkin^
@@ -238,15 +238,15 @@ moddb.com##div.row.clear:has(a[title*="FNF"])
 
 ! == hry.seznam.cz
 ||hry.seznam.cz/hra/friday-night-funkin^
-hry.seznam.cz##div.component-game-preview:has(a[href="https://hry.seznam.cz/hra/friday-night-funkin"])
 ||d31-a.sdn.cz/d_31/c_img_od_A/kBlLbSfl8BjyTHCqdEfOuOm/e7b7.jpeg^
+hry.seznam.cz##div.component-game-preview:has(a[href="https://hry.seznam.cz/hra/friday-night-funkin"])
 
 ! == Kotaku
+||kotaku.com/games/*friday-night-funkin*^
+||kotaku.com/games/a-friday-night-real-music-funkin-game^
 kotaku.com##li.ais-Hits-item:has(h2:has-text(/friday night funkin/i))
 kotaku.com##li.ais-Hits-item:has(p:has-text(/Friday Night Funkin/i))
 kotaku.com##li.ais-Hits-item:has(img[alt*="Funkin"])
-||kotaku.com/games/*friday-night-funkin*^
-||kotaku.com/games/a-friday-night-real-music-funkin-game^
 
 ! == Cults3D
 ||cults3d.com/*/3d-model/game/*friday-night-funkin*^
