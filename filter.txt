@@ -235,3 +235,13 @@ kotaku.com##li.ais-Hits-item:has(p:has-text(/Friday Night Funkin/i))
 kotaku.com##li.ais-Hits-item:has(img[alt*="Funkin"])
 ||kotaku.com/games/*friday-night-funkin*^
 ||kotaku.com/games/a-friday-night-real-music-funkin-game^
+
+! == Cults3D
+||cults3d.com/*/3d-model/game/*friday-night-funkin*^
+||cults3d.com/*/3d-model/game/*fnf*^
+cults3d.com##article.crea:has(a[title*="Friday Night Funkin"])
+cults3d.com##article.crea:has(a[title*="Friday Night Funkin'"])
+cults3d.com##article.crea:has(a[title*="Friday night funkin"])
+cults3d.com##article.crea:has(a[title*="friday night funkin"])
+cults3d.com##article.crea:has(a[title*="FRIDAY NIGHT FUNKIN"])
+cults3d.com##article.crea:has(a[title*="FNF"])
