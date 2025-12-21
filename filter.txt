@@ -52,7 +52,6 @@ github.com##span.repo:has-text(/funkin/i)
 ||github.com/topics/fnf^
 ||github.com/topics/funkin^
 ||github.com/topics/friday-night-funkin^
-github.com##article:has-text(/fnf|friday night funkin|funkin/i)
 
 ! == X (formerly known as Twitter)
 x.com##article:has-text(/fnf|friday night funkin/i)
