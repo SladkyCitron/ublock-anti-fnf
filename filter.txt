@@ -207,13 +207,13 @@ paixnidiaxl.gr##div.game-card:has(a[href*="friday-night-sprunki"])
 paixnidiaxl.gr##div.game-card:has(a[href*="super-friday-night-funki"])
 
 ! == GameBanana
-gamebanana.com##a[href*="https://gamebanana.com/games/8694"]
-gamebanana.com##img[src*="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"]
-gamebanana.com##img[src*="https://images.gamebanana.com/img/ico/ModCategory/68796321e4997.png"]
-gamebanana.com##div.Record:has(img[src*="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"])
-gamebanana.com##div.PreviewWrapper:has(img[src*="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"])
+gamebanana.com##a[href="https://gamebanana.com/games/8694"]
+gamebanana.com##img[src="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"]
+gamebanana.com##img[src="https://images.gamebanana.com/img/ico/ModCategory/68796321e4997.png"]
+gamebanana.com##div.Record:has(img[src="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"])
+gamebanana.com##div.PreviewWrapper:has(img[src="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"])
 gamebanana.com##div.Title:has-text(/fnf|funkin/i)
-gamebanana.com##a.Slide:has(img[src*="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"])
+gamebanana.com##a.Slide:has(img[src="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"])
 
 ! == hry.seznam.cz
 ||hry.seznam.cz/hra/friday-night-funkin^
