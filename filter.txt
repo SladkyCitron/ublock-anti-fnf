@@ -81,6 +81,7 @@ itch.io##a[href*="fnf"]
 ||ninjamuffin99.itch.io^
 
 ! == Reddit
+||reddit.com/r/FridayNightFunkin^
 reddit.com##div:has-text(/fnf/i)
 reddit.com##a[href*="r/FridayNightFunkin"]
 
