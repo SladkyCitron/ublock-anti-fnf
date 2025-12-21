@@ -257,3 +257,22 @@ cults3d.com##article.crea:has(a[title*="FNF"])
 audiocipher.com##div[data-breakout="normal"]:has-text(/friday night funkin/i)
 audiocipher.com##div[data-breakout="normal"]:has(div#viewer-3hjmc)
 audiocipher.com##div[data-breakout="normal"]:has(div#viewer-dl637)
+
+! == MusicBrainz
+||musicbrainz.org/artist/455699e4-a359-48ce-afdc-c7ba8ce67c99^
+||listenbrainz.org/artist/455699e4-a359-48ce-afdc-c7ba8ce67c99^
+||musicbrainz.org/release-group/edbad625-e4af-4f98-a1a8-6e80defc24d7^
+||musicbrainz.org/release-group/562526f1-81a4-4c54-9f30-2c396b3b89c6^
+||musicbrainz.org/release-group/f7a22a31-6dbb-40ab-a9dd-a2096fc8505e^
+||musicbrainz.org/release-group/924dc133-9287-4d42-bff6-02349f695a17^
+musicbrainz.org##tr:has-text(/friday night funkin/i)
+musicbrainz.org##tr:has-text(Bopeebo)
+musicbrainz.org##tr:has-text(Fresh)
+
+! == Bandcamp
+||kawaisprite.bandcamp.com^
+kawaisprite.bandcamp.com##li.music-grid-item:has-text(/friday night funkin|funkin/i)
+
+! == Discogs
+||discogs.com/artist/6833196-Kawai-Sprite^
+discogs.com##tr:has-text(/friday night funkin/i)
