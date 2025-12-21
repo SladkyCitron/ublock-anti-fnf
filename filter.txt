@@ -35,6 +35,7 @@
 ||newgrounds.com^
 ||newgrounds.io^
 ||ungrounded.net^
+||ngfiles.com^
 
 ! == Wikipedia
 ||en.wikipedia.org/wiki/Friday_Night_Funkin^
