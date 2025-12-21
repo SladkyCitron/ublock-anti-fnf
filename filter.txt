@@ -224,6 +224,7 @@ gamebanana.com##div.Record:has(img[src="https://images.gamebanana.com/img/ico/ga
 gamebanana.com##div.PreviewWrapper:has(img[src="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"])
 gamebanana.com##div.Title:has-text(/fnf|funkin/i)
 gamebanana.com##a.Slide:has(img[src="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"])
+||gamebanana.com/mods/358769^
 
 ! == ModDB
 ||moddb.com/games/friday-night-funkin^
@@ -251,3 +252,8 @@ cults3d.com##article.crea:has(a[title*="Friday night funkin"])
 cults3d.com##article.crea:has(a[title*="friday night funkin"])
 cults3d.com##article.crea:has(a[title*="FRIDAY NIGHT FUNKIN"])
 cults3d.com##article.crea:has(a[title*="FNF"])
+
+! == audiocipher.com
+audiocipher.com##div[data-breakout="normal"]:has-text(/friday night funkin/i)
+audiocipher.com##div[data-breakout="normal"]:has(div#viewer-3hjmc)
+audiocipher.com##div[data-breakout="normal"]:has(div#viewer-dl637)
