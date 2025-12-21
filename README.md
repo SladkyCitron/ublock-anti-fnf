@@ -4,6 +4,9 @@
 
 A [uBlock Origin](https://github.com/gorhill/uBlock) filter list to block Friday Night Funkin' content and references on the web.
 
+> [!WARNING]
+> Aggresive filtering may break some pages (e.g. Newgrounds). This is intentional for a truly FNF-free experience.
+
 ## Why?
 
 Friday Night Funkin' is a questionable Flash rhythm game with a large amount of inappropriate content, gore, innuendos, and a very toxic fanbase. This filter list aims to help users avoid it.
