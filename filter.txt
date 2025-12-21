@@ -225,3 +225,10 @@ gamebanana.com##a.Slide:has(img[src="https://images.gamebanana.com/img/ico/games
 ||hry.seznam.cz/hra/friday-night-funkin^
 hry.seznam.cz##div.component-game-preview:has(a[href="https://hry.seznam.cz/hra/friday-night-funkin"])
 ||d31-a.sdn.cz/d_31/c_img_od_A/kBlLbSfl8BjyTHCqdEfOuOm/e7b7.jpeg^
+
+! == Kotaku
+kotaku.com##li.ais-Hits-item:has(h2:has-text(/friday night funkin/i))
+kotaku.com##li.ais-Hits-item:has(p:has-text(/Friday Night Funkin/i))
+kotaku.com##li.ais-Hits-item:has(img[alt*="Funkin"])
+||kotaku.com/games/*friday-night-funkin*^
+||kotaku.com/games/a-friday-night-real-music-funkin-game^
