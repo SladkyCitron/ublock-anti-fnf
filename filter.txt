@@ -36,6 +36,8 @@
 ||newgrounds.io^
 ||ungrounded.net^
 ||ngfiles.com^
+||kawaisprite.newgrounds.com^
+||ninjamuffin99.newgrounds.com^
 
 ! == Wikipedia
 ||en.wikipedia.org/wiki/Friday_Night_Funkin^
@@ -76,6 +78,8 @@ github.com##span.repo:has-text(/funkin/i)
 x.com##article:has-text(/fnf|friday night funkin/i)
 x.com##img[alt*="fnf"]
 x.com##img[alt*="funkin"]
+||x.com/kawaisprite^
+||x.com/ninjamuffin99^
 
 ! == TikTok
 tiktok.com##div:has-text(/fnf|friday night funkin/i)
@@ -88,6 +92,8 @@ youtube.com##ytd-thumbnail:has(a[href*="friday-night-funkin"])
 youtube.com##ytd-comment-renderer:has-text(/fnf|friday night funkin/i)
 youtube.com##ytd-channel-renderer:has-text(/fnf/i)
 youtube.com##ytd-video-renderer:has-text(/(fnf|friday night funkin).*(boyfriend|girlfriend|bf|gf)/i)
+||youtube.com/kawaisprite^
+||youtube.com/ninjamuffin99^
 
 ! == DeviantArt
 deviantart.com##.torpedo-thumb-link:has-text(/fnf/i)
