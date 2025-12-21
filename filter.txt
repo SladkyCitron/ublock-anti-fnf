@@ -281,3 +281,6 @@ kawaisprite.bandcamp.com##li.music-grid-item:has-text(/friday night funkin|funki
 ||discogs.com/artist/6833196-Kawai-Sprite^
 discogs.com##tr:has-text(/friday night funkin/i)
 discogs.com##li:has-text(/friday night funkin/i)
+
+! == Soundcloud
+||soundcloud.com/kawaisprite^
