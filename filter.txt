@@ -224,6 +224,11 @@ gamebanana.com##div.PreviewWrapper:has(img[src="https://images.gamebanana.com/im
 gamebanana.com##div.Title:has-text(/fnf|funkin/i)
 gamebanana.com##a.Slide:has(img[src="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"])
 
+! == ModDB
+||moddb.com/games/friday-night-funkin^
+moddb.com##div.row.clear:has(a[href="/games/friday-night-funkin"])
+moddb.com##div.row.clear:has(a[title*="FNF"])
+
 ! == hry.seznam.cz
 ||hry.seznam.cz/hra/friday-night-funkin^
 hry.seznam.cz##div.component-game-preview:has(a[href="https://hry.seznam.cz/hra/friday-night-funkin"])
