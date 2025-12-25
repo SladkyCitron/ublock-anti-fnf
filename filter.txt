@@ -231,6 +231,10 @@ gamebanana.com##a.Slide:has(img[alt="Friday Night Funkin' icon"])
 gamebanana.com##a.SubmissionCard.Preview:has(img[alt="Friday Night Funkin' icon"])
 gamebanana.com##a.SubmissionCard.Preview:has-text(/friday night funkin|funkin|fnf/i)
 gamebanana.com##div.swiper-slide:has(img[alt="Friday Night Funkin' icon"])
+gamebanana.com##a[href*="/search"]:has-text(/fnf/i)
+gamebanana.com##a[href*="/search"]:has-text(/funkin/i)
+gamebanana.com##a[href*="/search"]:has-text(/tricky/i)
+gamebanana.com##a[href*="/search"]:has-text(/v-slice/i)
 
 ! == ModDB
 ||moddb.com/games/friday-night-funkin^
