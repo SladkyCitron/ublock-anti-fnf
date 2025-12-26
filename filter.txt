@@ -73,13 +73,9 @@ github.com##span.repo:has-text(/funkin/i)
 ! == X (formerly known as Twitter)
 ||x.com/kawaisprite^
 ||x.com/ninjamuffin99^
-x.com##article:has-text(/fnf|friday night funkin/i)
-x.com##img[alt*="fnf"]
-x.com##img[alt*="funkin"]
 
 ! == TikTok
-tiktok.com##div:has-text(/fnf|friday night funkin/i)
-tiktok.com##a[href*="fnf"]
+||tiktok.com/@*fnf*^
 
 ! == YouTube
 ||youtube.com/kawaisprite^
@@ -103,7 +99,6 @@ itch.io##a[href*="fnf"]
 
 ! == Reddit
 ||reddit.com/r/FridayNightFunkin^
-reddit.com##div:has-text(/fnf/i)
 reddit.com##a[href*="r/FridayNightFunkin"]
 
 ! == Scratch
