@@ -329,6 +329,9 @@ dollchan.net##div.entry:has-text(/friday night funkin|fnf/i)
 ||play-lh.googleusercontent.com/eH7CbOlUv_4ysRxicJbncfdfK3nsA_YtIpu8cvPRi2rRvXAQOLwXhoNybAwHptYIpbY=s256-rw
 play.google.com##div[role="listitem"]:has(a[href*="me.funkin.fnf"])
 
+! == Aptoide
+||friday-night-funkin-the-funkin-crew-inc.en.aptoide.com^
+
 ! == Soundcloud
 ||soundcloud.com/kawaisprite^
 
