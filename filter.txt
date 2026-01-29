@@ -94,8 +94,10 @@ deviantart.com##img[alt*="friday night funkin"]
 
 ! == Itch
 ||ninjamuffin99.itch.io^
+||img.itch.zone/aW1nLzQ1MjMxODcuZ2lm/110x87%23/Mo7SS3.gif^
 itch.io##.game_cell:has-text(/fnf|friday night funkin/i)
 itch.io##a[href*="fnf"]
+itch.io##img[src="https://img.itch.zone/aW1nLzQ1MjMxODcuZ2lm/110x87%23/Mo7SS3.gif"]
 
 ! == Reddit
 ||reddit.com/r/FridayNightFunkin^
