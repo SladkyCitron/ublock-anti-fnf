@@ -339,3 +339,6 @@ play.google.com##div[role="listitem"]:has(a[href*="me.funkin.fnf"])
 
 ! == Beatsaver
 beatsaver.com##div.beatmap:has-text(/friday night funkin|fnf|kawaisprite|kawai sprite/i)
+
+! == EmuOS
+emupedia.net##a.emuos-desktop-icon:has-text(Friday Night Funkin)
