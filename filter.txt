@@ -345,3 +345,26 @@ emupedia.net##a.emuos-desktop-icon:has-text(Friday Night Funkin)
 
 ! == Windows 96
 windows96.net##div.item[ident="fnf"]
+
+! == TV Tropes
+||tvtropes.org/pmwiki/pmwiki.php/VideoGame/FridayNightFunkin^
+tvtropes.org##li:has-text(Friday Night Funkin)
+tvtropes.org##tr:has-text(Friday Night Funkin)
+
+! == Know Your Meme
+||knowyourmeme.com/memes/friday-night-funkin^
+knowyourmeme.com##article:has-text(/friday night funkin|fnf/i)
+
+! == wiki.gg
+wiki.gg##div#comp-m12w332x1__fridaynightfunkin
+wiki.gg##div#comp-m12w332x1__fnfawoo
+
+! == Go packages
+pkg.go.dev##div:has-text(/friday night funkin/i)
+
+! == Bevy
+bevy.org##div#bevy-xml
+
+! == Wine
+||appdb.winehq.org/objectManager.php?sClass=application&iId=20280^
+appdb.winehq.org##tr:has-text(Friday Night Funkin)
