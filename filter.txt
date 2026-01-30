@@ -343,5 +343,5 @@ beatsaver.com##div.beatmap:has-text(/friday night funkin|fnf|kawaisprite|kawai s
 ! == EmuOS
 emupedia.net##a.emuos-desktop-icon:has-text(Friday Night Funkin)
 
-! Windows 96
+! == Windows 96
 windows96.net##div.item[ident="fnf"]
