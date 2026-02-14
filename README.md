@@ -11,8 +11,8 @@ A [uBlock Origin](https://github.com/gorhill/uBlock) filter list to block Friday
 <summary>Screenshot (before / after)</summary>
 
 <p float="left" align="center">
-  <img src="https://github.com/MatusOllah/ublock-anti-fnf/blob/main/gamebanana_before.png?raw=true" height="300px" alt="Before">
-  <img src="https://github.com/MatusOllah/ublock-anti-fnf/blob/main/gamebanana_after.png?raw=true" height="300px" alt="After">
+  <img src="https://github.com/SladkyCitron/ublock-anti-fnf/blob/main/gamebanana_before.png?raw=true" height="300px" alt="Before">
+  <img src="https://github.com/SladkyCitron/ublock-anti-fnf/blob/main/gamebanana_after.png?raw=true" height="300px" alt="After">
 </p>
 </details>
 
@@ -25,7 +25,7 @@ Also I hate the game, so there's that.
 ## Usage
 
 Copy the link below, go to uBlock Origin > Dashboard > Filters and paste the link underneath the 'Import...' heading:
-* `https://raw.githubusercontent.com/MatusOllah/ublock-anti-fnf/main/filter.txt`
+* `https://raw.githubusercontent.com/SladkyCitron/ublock-anti-fnf/main/filter.txt`
 
 ## License
 
