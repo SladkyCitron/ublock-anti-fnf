@@ -1,9 +1,9 @@
 [uBlock Origin]
 ! Title: Anti-FNF
 ! Description: Removes all known Friday Night Funkin' content and references on the web.
-! Homepage: https://github.com/MatusOllah/ublock-anti-fnf
-! GitHub repository: https://github.com/MatusOllah/ublock-anti-fnf
-! License: https://github.com/MatusOllah/ublock-anti-fnf/blob/main/LICENSE
+! Homepage: https://github.com/SladkyCitron/ublock-anti-fnf
+! GitHub repository: https://github.com/SladkyCitron/ublock-anti-fnf
+! License: https://github.com/SladkyCitron/ublock-anti-fnf/blob/main/LICENSE
 
 ! == Domains
 ||fridaynightfunkin.fandom.com^
