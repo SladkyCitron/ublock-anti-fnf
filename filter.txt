@@ -380,4 +380,4 @@ agame.com##a.tile[href*="friday-night-squid"]
 
 ! == MobyGames
 mobygames.com##tr:has-text(Friday Night Funkin)
-||mobygames.com/game/157213/friday-night-funkin^^
+||mobygames.com/game/157213/friday-night-funkin^
