@@ -377,3 +377,7 @@ agame.com##a.tile[href*="friday-night-squid"]
 ||agame.com/game/friday-night-funkin-hugie-wugie^
 ||agame.com/game/super-friday-night-funkin-vs-minedcraft^
 ||agame.com/game/super-friday-night-squid-challenge^
+
+! == MobyGames
+mobygames.com##tr:has-text(Friday Night Funkin)
+||mobygames.com/game/157213/friday-night-funkin^^
