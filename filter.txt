@@ -434,6 +434,102 @@ silvergames.com##div.game-teaser:has-text(/fnf|friday night funk|friday night ba
 silvergames.com##div.game-teaser-flex:has-text(/fnf|friday night funk|friday night battle/i)
 silvergames.com##a[href*="friday-night-funkin"]
 
+! == vseigru.net
+vseigru.net##a[href*="/igry-frajdej-najt-fankin.html"]
+
+! == gamemonetize.com
+gamemonetize.com##div.col-md-6:has(a[href*="friday-night-funkin"])
+
+! == pacogames.com
+pacogames.com##a[href*="/logic/friday-night-squid-challenge-af"]
+
+! == Lagged
+lagged.com##div.thumbWrapper:has(a[href*="friday-night-funkin"])
+lagged.com##div.thumbWrapper:has(a[href*="friday-night-battle"])
+lagged.com##div.thumbWrapper:has(a[href*="fnf"])
+lagged.com##div.thumbWrapper:has(a[href*="friday-night-at-freddys"])
+lagged.com##div.thumbWrapper:has(a[href*="five-night-funkin"])
+lagged.com##div.thumbWrapper:has(a[href*="horror-piggyfied"])
+lagged.com##div.thumbWrapper:has(a[href*="music-battle-3d"])
+
+! == a10.com
+a10.com##li.grid-col:has-text(/fnf|friday night funki|friday night squid/i)
+
+! == GameZoo
+gamezoo.net##div.game-card:has-text(/fnf|friday night funkin|friday night squid/i)
+
+! == play.cluster.ws
+play.cluster.ws##a[id="Friday Night Funkin"]
+
+! == now.gg
+now.gg##div.popular-games-item:has(a[href*="/apps/ninjamuffin99/51181/friday-night-funkin.html"])
+
+! == 4j.com
+4j.com##div#game-42995
+4j.com##div#game-43588
+4j.com##div#game-44092
+4j.com##div#game-44094
+4j.com##div#game-44529
+4j.com##div#game-44027
+4j.com##div#game-45141
+4j.com##div#game-46376
+4j.com##div#game-45415
+4j.com##div#game-46473
+
+! == kiz10.com
+||https://kiz10.com/games/friday-night-funkin^
+kiz10.com##a[href*="friday-night-funkin"]
+kiz10.com##a:has-text(/fnf|friday night funkin/i)
+kiz10.com##article.game-card:has(a[href*="friday-night-funkin"])
+kiz10.com##article.game-card:has(a[href*="fnf"])
+
+! == igroutka.ru
+igroutka.ru##a[href*="/igry-frajdej-najt-fankin.html"]
+
+! == bestcrazygames.com
+bestcrazygames.com##a[href*="fnf"]
+bestcrazygames.com##a[href*="friday-night-funki"]
+bestcrazygames.com##a[href*="super-friday-night-vs"]
+bestcrazygames.com##a[href*="friday-night-sprunki"]
+bestcrazygames.com##a[href*="friday-night-squid"]
+
+! == play-games.com
+play-games.com##a[href*="fnf"]
+play-games.com##a[href*="friday-night-funki"]
+play-games.com##a[href*="super-friday-night-vs"]
+play-games.com##a[href*="friday-night-sprunki"]
+play-games.com##a[href*="friday-night-squid"]
+
+! == 8fat
+8fat.com##div.thumb:has(a[href*="/game/Super-Friday-Night-Funki"])
+
+! == coolmathgameskids.com
+coolmathgameskids.com##li.left:has-text(/fnf|friday night funkin|Funkin’ With Nova/i)
+
+! == onlinegames.io
+onlinegames.io##article.c-card:has(a[href*="fnf"])
+onlinegames.io##article.c-card:has(a[href*="friday-night-funkin"])
+
+! == bestgames.com
+bestgames.com##div#game-8140
+
+! == friv.ee
+friv.ee##div.post:has(a[href*="friday-night-funkin"])
+
+! == games-kids.com
+games-kids.com##div.single-game:has(a[href*="fnf"])
+games-kids.com##li.slide:has(a[href*="friday-night-funkin"])
+
+! == happykidgames.com
+happykidgames.com##li.game:has(a[href*="friday-night-funkin"])
+
+! == gameszap.com
+||gameszap.com/friday-night-funkin-games.html^
+gameszap.com##li:has(a[href="https://www.gameszap.com/friday-night-funkin-games.html"])
+
+! == rocketgames.io
+rocketgames.io##a[href*="/game/friday-night-funkin"]
+
 ! == Nexus Mods
 ||nexusmods.com/fridaynightfunkin^
 ||nexusmods.com/games/fridaynightfunkin^
