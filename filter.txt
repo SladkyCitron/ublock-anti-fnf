@@ -390,3 +390,65 @@ mobygames.com##tr:has-text(Friday Night Funkin)
 
 ! == Glitchwave
 glitchwave.com##li#page_discography_line_game_108437
+
+! == KBHGames
+||kbhgames.com/game/friday-night-funkin^
+||kbhgames.com/tag/friday-night-funkin^
+kbhgames.com##div.boxInner2:has-text(/fnf|friday night funkin/i)
+kbhgames.com##li[itemprop="itemListElement"]:has-text(/fnf|friday night funkin|Wii Funkin’|Wednesday’s Infidelity 2 vs Sad Mickey Mouse/i)
+kbhgames.com##li:has(a[href="https://kbhgames.com/tag/friday-night-funkin"])
+kbhgames.com##a[href="https://kbhgames.com/tag/friday-night-funkin"]
+
+! == Arcade Spot
+||arcadespot.com/game/friday-night-funkin^
+arcadespot.com##li:has(a[href*="friday-night-funkin"])
+arcadespot.com##li:has(a[href*="fnf"])
+
+! == gameflare.com
+gameflare.com##div.game-cell:has-text(/fnf|friday night funkin|Sprunki Sky and You/i)
+
+! == miniplay.com (multiple domains / mirrors)
+miniplay.com##li.item:has-text(/fnf|friday night funkin/i)
+miniplay.com##a[href*="friday-night-funkin"]
+
+minijuegos.com##li.item:has-text(/fnf|friday night funkin/i)
+minijuegos.com##a[href*="friday-night-funkin"]
+
+minijuegos.mx##li.item:has-text(/fnf|friday night funkin/i)
+minijuegos.mx##a[href*="friday-night-funkin"]
+
+minigiochi.com##li.item:has-text(/fnf|friday night funkin/i)
+minigiochi.com##a[href*="friday-night-funkin"]
+
+minijogos.com.br##li.item:has-text(/fnf|friday night funkin/i)
+minijogos.com.br##a[href*="friday-night-funkin"]
+
+minispelletjes.com##li.item:has-text(/fnf|friday night funkin/i)
+minispelletjes.com##a[href*="friday-night-funkin"]
+
+grymini.pl##li.item:has-text(/fnf|friday night funkin/i)
+grymini.pl##a[href*="friday-night-funkin"]
+
+! == silvergames.com
+silvergames.com##div.game-teaser:has-text(/fnf|friday night funk|friday night battle/i)
+silvergames.com##div.game-teaser-flex:has-text(/fnf|friday night funk|friday night battle/i)
+silvergames.com##a[href*="friday-night-funkin"]
+
+! == Nexus Mods
+||nexusmods.com/fridaynightfunkin^
+||nexusmods.com/games/fridaynightfunkin^
+nexusmods.com##div[data-e2eid="game-tile"]:has(a[href*="fridaynightfunkin"])
+
+! == npm
+npmjs.com##section:has-text(/friday night funkin/i)
+
+! == Rate Your Music
+rateyourmusic.com##table[style="margin-bottom:0.5em;"]:has-text(Kawai Sprite)
+
+! == Giant Bomb
+||giantbomb.com/wiki/Games/Friday_Night_Funkin^
+giantbomb.com##div.listing-card:has(div.listing-card-link[data-url="https://giantbomb.com/wiki/Games/Friday_Night_Funkin"])
+giantbomb.com##div.listing-card:has-text(Friday Night Funkin (Game))
+
+! == Kickstarter
+||kickstarter.com/projects/funkin^
