@@ -39,6 +39,8 @@
 ! == Wikipedia
 ||en.wikipedia.org/wiki/Friday_Night_Funkin^
 wikipedia.org##a[href*="Friday_Night_Funkin"]
+wikipedia.org##tr:has-text(/friday night funkin/i)
+wikipedia.org##tr:has-text(/The Funkin\' Crew Inc\./)
 
 ! == GitHub
 ||github.com/FunkinCrew^
