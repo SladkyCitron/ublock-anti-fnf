@@ -252,7 +252,8 @@ gamebanana.com##a[href*="/search"]:has-text(/b-side/i)
 gamebanana.com##a[href*="/search"]:has-text(/bside/i)
 gamebanana.com##a[href*="/search"]:has-text(/d-side/i)
 gamebanana.com##a[href*="/search"]:has-text(/dside/i)
-gamebanana.com##a[href*="/search"]:has-text(/mic'd up/i)
+gamebanana.com##a[href*="/search"]:has-text(/mic\'d up/i)
+gamebanana.com##a[href*="/search"]:has-text(/micd up/i)
 gamebanana.com##a[href*="/search"]:has-text(/tricky/i)
 gamebanana.com##a[href*="/search"]:has-text(/whitty/i)
 gamebanana.com##a[href*="/search"]:has-text(/agoti/i)
@@ -550,3 +551,6 @@ giantbomb.com##div.listing-card:has-text(Friday Night Funkin (Game))
 
 ! == Kickstarter
 ||kickstarter.com/projects/funkin^
+
+! == archive.org
+archive.org##article.cell-container:has-text(/friday night funkin|funkin|fnf/i)
