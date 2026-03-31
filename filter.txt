@@ -70,6 +70,7 @@ wikipedia.org##tr:has-text(/The Funkin\' Crew Inc\./)
 ||github.com/topics/fnf^
 ||github.com/topics/funkin^
 ||github.com/topics/friday-night-funkin^
+||github.com/CarsonKompon/pico-night-punkin
 github.com##a[href*="FunkinCrew"]
 github.com##span.repo:has-text(/funkin/i)
 
@@ -480,7 +481,7 @@ now.gg##div.popular-games-item:has(a[href*="/apps/ninjamuffin99/51181/friday-nig
 4j.com##div#game-46473
 
 ! == kiz10.com
-||https://kiz10.com/games/friday-night-funkin^
+||kiz10.com/games/friday-night-funkin^
 kiz10.com##a[href*="friday-night-funkin"]
 kiz10.com##a:has-text(/fnf|friday night funkin/i)
 kiz10.com##article.game-card:has(a[href*="friday-night-funkin"])
@@ -560,3 +561,12 @@ gamebrew.org##tr:has-text(/friday night funkin|funkin|fnf/i)
 ||gamebrew.org/wiki/Tricky_Playstation_1_Port_for_PSP^
 ||gamebrew.org/wiki/Friday_Night_Funkin_PSP^
 ||gamebrew.org/wiki/PSXFunkin_with_Parappa_for_PSP^
+||gamebrew.org/wiki/FNF:_Switch_Funkin^
+||gamebrew.org/wiki/Friday_Night_Funkin_Rewritten_Switch^
+
+! == brew.psp.place
+||brew.psp.place/detail.html?id=fnf-for-psp-updated-5.7z^
+brew.psp.place##tr:has-text(Friday Night)
+
+! == Raspberry Pi
+||forums.raspberrypi.com/viewtopic.php?t=333812^
