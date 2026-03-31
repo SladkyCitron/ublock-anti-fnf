@@ -554,3 +554,9 @@ giantbomb.com##div.listing-card:has-text(Friday Night Funkin (Game))
 
 ! == archive.org
 archive.org##article.cell-container:has-text(/friday night funkin|funkin|fnf/i)
+
+! == GameBrew
+gamebrew.org##tr:has-text(/friday night funkin|funkin|fnf/i)
+||gamebrew.org/wiki/Tricky_Playstation_1_Port_for_PSP^
+||gamebrew.org/wiki/Friday_Night_Funkin_PSP^
+||gamebrew.org/wiki/PSXFunkin_with_Parappa_for_PSP^
