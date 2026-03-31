@@ -70,7 +70,7 @@ wikipedia.org##tr:has-text(/The Funkin\' Crew Inc\./)
 ||github.com/topics/fnf^
 ||github.com/topics/funkin^
 ||github.com/topics/friday-night-funkin^
-||github.com/CarsonKompon/pico-night-punkin
+||github.com/CarsonKompon/pico-night-punkin^
 github.com##a[href*="FunkinCrew"]
 github.com##span.repo:has-text(/funkin/i)
 
@@ -570,3 +570,38 @@ brew.psp.place##tr:has-text(Friday Night)
 
 ! == Raspberry Pi
 ||forums.raspberrypi.com/viewtopic.php?t=333812^
+
+! == gamepix.com
+||gamepix.com/play/*friday-night*
+||gamepix.com/play/*funkin*
+||gamepix.com/play/*fnf*
+||gamepix.com/play/fmf-music-battle^
+gamepix.com##li:has-text(/friday night funkin|friday night|funkin|fnf/i)
+gamepix.com##h2:has-text(FNF)
+gamepix.com##h3:has-text(/friday night funkin/i)
+gamepix.com##p:has-text(/friday night funkin/i)
+
+! == Snokido
+||snokido.com/games/fnf^
+||snokido.com/game/*fnf*
+||snokido.com/game/friday-night-funkin
+||snokido.com/game/pico-night-punkin
+||snokido.com/game/the-tricky-mod
+||snokido.com/game/super-bandit-rip
+||snokido.com/game/*friday-night*
+||snokido.com/game/*funkin*
+snokido.com##li:has-text(/friday night|funkin|fnf|pico night punkin|pico|tricky|super bandit rip/i)
+snokido.com##li:has(a[href*="fnf"])
+snokido.com##li:has(a[href*="friday-night"])
+snokido.com##li:has(a[href*="pico-night-punkin"])
+snokido.com##li:has(a[href*="funkin"])
+snokido.com##li:has(a[href*="the-tricky-mod"])
+snokido.com##li:has(a[href*="super-bandit-rip"])
+snokido.com##div.homecat:has-text(FNF Mods)
+snokido.com##p:has-text(/friday night funkin/i)
+
+! == onlinegames.io
+onlinegames.io##div.game-box:has-text(/friday night funkin/i)
+
+! == arcadespot.com
+arcadespot.com##li:has-text(/pico night punkin/i)
