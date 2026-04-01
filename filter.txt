@@ -3,7 +3,7 @@
 ! Description: Removes all known Friday Night Funkin' content and references on the web.
 ! Homepage: https://github.com/SladkyCitron/ublock-anti-fnf
 ! GitHub repository: https://github.com/SladkyCitron/ublock-anti-fnf
-! License: https://github.com/SladkyCitron/ublock-anti-fnf/blob/main/LICENSE
+! License: Public domain
 
 ! == Domains
 ||fridaynightfunkin.fandom.com^
