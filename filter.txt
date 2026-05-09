@@ -93,18 +93,9 @@ github.com##span.repo:has-text(/funkin/i)
 ||x.com/ninjamuffin99^
 ||x.com/3dsfnf^
 
-! == TikTok
-||tiktok.com/@*fnf*^
-
 ! == YouTube
 ||youtube.com/kawaisprite^
 ||youtube.com/ninjamuffin99^
-youtube.com##ytd-video-renderer:has-text(/fnf|friday night funkin/i)
-youtube.com##ytd-thumbnail:has(a[href*="fnf"])
-youtube.com##ytd-thumbnail:has(a[href*="friday-night-funkin"])
-youtube.com##ytd-comment-renderer:has-text(/fnf|friday night funkin/i)
-youtube.com##ytd-channel-renderer:has-text(/fnf/i)
-youtube.com##ytd-video-renderer:has-text(/(fnf|friday night funkin).*(boyfriend|girlfriend|bf|gf)/i)
 
 ! == DeviantArt
 deviantart.com##.torpedo-thumb-link:has-text(/fnf/i)
@@ -319,7 +310,7 @@ gamejolt.com##div._game-grid-item:has-text(/chart/i)
 gamejolt.com##div._game-grid-item:has-text(/v-slice/i)
 gamejolt.com##div._game-grid-item:has-text(/pibby/i)
 gamejolt.com##div._game-grid-item:has-text(/kade engine/i)
-ňgamejolt.com##div._game-grid-item:has-text(/mod/i)
+gamejolt.com##div._game-grid-item:has-text(/mod/i)
 
 ! == ModDB
 ||moddb.com/games/friday-night-funkin^
