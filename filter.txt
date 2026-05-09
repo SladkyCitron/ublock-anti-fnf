@@ -6,27 +6,35 @@
 ! License: Public domain
 
 ! == Domains
+||fridaynightfunkin.miraheze.org^
 ||fridaynightfunkin.fandom.com^
 ||fridaynightfunkin.wiki.gg^
 ||friday-night-funkin.net^
+||fridaynightfunkin.net^
+||fridaynightfunkin.lol^
 ||fridaynightfunkin.io^
 ||fnfmods.net^
 ||fnfmods.xyz^
 ||fnfunkin.com^
+||fnf-mods.com^
 ||funkin.me^
-||sprunki.website^
 ||fnfgo.io^
 ||fnfgo.gg^
-||fridaynightfunkin.lol^
 ||fnf-online.io^
 ||fnfgo.pro^
 ||fnfgaming.com^
 ||fnfunblocked.com^
 ||fnf.onl^
+||fnf.lol^
+||fnfgo.com^
 ||funkinchan.fun^
-||sites.google.com/view/fnmods^
-||sites.google.com/site/fnfunblocked^
-||fridaynightfunkin.miraheze.org^
+||sites.google.com/view/fnfmods^
+||sites.google.com/view/fnfunblocked^
+||sites.google.com/view/fnf-unblocked^
+||sites.google.com/view/fnfunblockedmod^
+||classroom6x.github.io^
+||totallyscience.co^
+||fireplayz132.github.io^
 
 ! == Newgrounds + Ungrounded CDN (this WILL break the entire website)
 ||newgrounds.com^
@@ -71,12 +79,19 @@ wikipedia.org##tr:has-text(/The Funkin\' Crew Inc\./)
 ||github.com/topics/funkin^
 ||github.com/topics/friday-night-funkin^
 ||github.com/CarsonKompon/pico-night-punkin^
+||github.com/GuglioIsStupid/Funkin3D^
+||github.com/3DSFNF/funkin3ds^
+||github.com/NicktasticDEV/Funkin-Wii^
+||github.com/FirePlayz132^
+||github.*/assets/images/logoBumpin.xml$xhr,domain=github.io
+||github.*/assets/images/logoBumpins.xml$xhr,domain=github.io
 github.com##a[href*="FunkinCrew"]
 github.com##span.repo:has-text(/funkin/i)
 
 ! == X (formerly known as Twitter)
 ||x.com/kawaisprite^
 ||x.com/ninjamuffin99^
+||x.com/3dsfnf^
 
 ! == TikTok
 ||tiktok.com/@*fnf*^
@@ -97,7 +112,7 @@ deviantart.com##img[alt*="fnf"]
 deviantart.com##img[alt*="friday night funkin"]
 
 ! == Itch
-||ninjamuffin99.itch.io^
+||ninja-muffin24.itch.io^
 ||img.itch.zone/aW1nLzQ1MjMxODcuZ2lm/110x87%23/Mo7SS3.gif^
 itch.io##.game_cell:has-text(/fnf|friday night funkin/i)
 itch.io##a[href*="fnf"]
@@ -224,6 +239,11 @@ y8.com##li:has(a.tag-item[title="FNF"])
 ||images.gamebanana.com/img/ico/games/62082c1edaf3d.png^
 ||images.gamebanana.com/img/ico/ModCategory/68796321e4997.png^
 ||gamebanana.com/mods/358769^
+||gamebanana.com/dl/816748^
+||gamebanana.com/members/1994332^
+||images.gamebanana.com/img/av/66c1df254936b.png^
+||images.gamebanana.com/img/upic/66c1e2f8b5343.png^
+||images.gamebanana.com/img/sig/66d448b7dbba1.png^
 gamebanana.com##a[href="https://gamebanana.com/games/8694"]
 gamebanana.com##img[alt="Friday Night Funkin' icon"]
 gamebanana.com##img[src="https://images.gamebanana.com/img/ico/ModCategory/68796321e4997.png"]
@@ -232,6 +252,7 @@ gamebanana.com##a.Slide:has(img[alt="Friday Night Funkin' icon"])
 gamebanana.com##a.SubmissionCard.Preview:has(img[alt="Friday Night Funkin' icon"])
 gamebanana.com##a.SubmissionCard.Preview:has-text(/friday night funkin|funkin|fnf/i)
 gamebanana.com##div.swiper-slide:has(img[alt="Friday Night Funkin' icon"])
+gamebanana.com##div.Post.Flow:has(img[src="https://images.gamebanana.com/img/av/66c1df254936b.png"])
 gamebanana.com##a[href*="/search"]:has-text(/fnf/i)
 gamebanana.com##a[href*="/search"]:has-text(/funkin/i)
 gamebanana.com##a[href*="/search"]:has-text(/friday\s*night\s*funkin/i)
@@ -277,6 +298,28 @@ gamebanana.com##a[href*="/search"]:has-text(/ninjamuffin99/i)
 gamebanana.com##a[href*="/search"]:has-text(/kawaisprite/i)
 gamebanana.com##a[href*="/search"]:has-text(/phantomarcade/i)
 gamebanana.com##a[href*="/search"]:has-text(/evilsk8r/i)
+
+! == Game Jolt
+||s.gjcdn.net/assets/bISqy-PT.png^
+||gamejolt.com/games/tag-fnf^
+||gamejolt.com/games/hot/tag-fnf^
+||gamejolt.com/games/best/tag-fnf^
+||gamejolt.com/games/new/tag-fnf^
+gamejolt.com##div.-list-item[data-v-9917309f]:has-text(#fnf)
+gamejolt.com##div._game-grid-item:has-text(/friday/i)
+gamejolt.com##div._game-grid-item:has-text(/fnf/i)
+gamejolt.com##div._game-grid-item:has-text(/funkin/i)
+gamejolt.com##div._game-grid-item:has-text(/funky/i)
+gamejolt.com##div._game-grid-item:has-text(/vs impostor/i)
+gamejolt.com##div._game-grid-item:has-text(/tricky mod/i)
+gamejolt.com##div._game-grid-item:has-text(/vs/i)
+gamejolt.com##div._game-grid-item:has-text(/v\.s/i)
+gamejolt.com##div._game-grid-item:has-text(/flp/i)
+gamejolt.com##div._game-grid-item:has-text(/chart/i)
+gamejolt.com##div._game-grid-item:has-text(/v-slice/i)
+gamejolt.com##div._game-grid-item:has-text(/pibby/i)
+gamejolt.com##div._game-grid-item:has-text(/kade engine/i)
+ňgamejolt.com##div._game-grid-item:has-text(/mod/i)
 
 ! == ModDB
 ||moddb.com/games/friday-night-funkin^
@@ -396,6 +439,7 @@ mobygames.com##tr:has-text(Friday Night Funkin)
 glitchwave.com##li#page_discography_line_game_108437
 
 ! == KBHGames
+||kdata1.com^
 ||kbhgames.com/game/friday-night-funkin^
 ||kbhgames.com/tag/friday-night-funkin^
 kbhgames.com##div.boxInner2:has-text(/fnf|friday night funkin/i)
@@ -558,6 +602,7 @@ archive.org##article.cell-container:has-text(/friday night funkin|funkin|fnf/i)
 
 ! == GameBrew
 gamebrew.org##tr:has-text(/friday night funkin|funkin|fnf/i)
+gamebrew.org##li:has-text(/friday night funkin|funkin|fnf/i)
 ||gamebrew.org/wiki/Tricky_Playstation_1_Port_for_PSP^
 ||gamebrew.org/wiki/Friday_Night_Funkin_PSP^
 ||gamebrew.org/wiki/PSXFunkin_with_Parappa_for_PSP^
@@ -582,23 +627,23 @@ gamepix.com##h3:has-text(/friday night funkin/i)
 gamepix.com##p:has-text(/friday night funkin/i)
 
 ! == Snokido
-||snokido.com/games/fnf^
-||snokido.com/game/*fnf*
-||snokido.com/game/friday-night-funkin
-||snokido.com/game/pico-night-punkin
-||snokido.com/game/the-tricky-mod
-||snokido.com/game/super-bandit-rip
-||snokido.com/game/*friday-night*
-||snokido.com/game/*funkin*
-snokido.com##li:has-text(/friday night|funkin|fnf|pico night punkin|pico|tricky|super bandit rip/i)
-snokido.com##li:has(a[href*="fnf"])
-snokido.com##li:has(a[href*="friday-night"])
-snokido.com##li:has(a[href*="pico-night-punkin"])
-snokido.com##li:has(a[href*="funkin"])
-snokido.com##li:has(a[href*="the-tricky-mod"])
-snokido.com##li:has(a[href*="super-bandit-rip"])
-snokido.com##div.homecat:has-text(FNF Mods)
-snokido.com##p:has-text(/friday night funkin/i)
+||snokido.*/games/fnf^
+||snokido.*/game/*fnf*
+||snokido.*/game/friday-night-funkin
+||snokido.*/game/pico-night-punkin
+||snokido.*/game/the-tricky-mod
+||snokido.*/game/super-bandit-rip
+||snokido.*/game/*friday-night*
+||snokido.*/game/*funkin*
+snokido.*##li:has-text(/friday night|funkin|fnf|pico night punkin|pico|tricky|super bandit rip/i)
+snokido.*##li:has(a[href*="fnf"])
+snokido.*##li:has(a[href*="friday-night"])
+snokido.*##li:has(a[href*="pico-night-punkin"])
+snokido.*##li:has(a[href*="funkin"])
+snokido.*##li:has(a[href*="the-tricky-mod"])
+snokido.*##li:has(a[href*="super-bandit-rip"])
+snokido.*##div.homecat:has-text(FNF Mods)
+snokido.*##p:has-text(/friday night funkin/i)
 
 ! == onlinegames.io
 onlinegames.io##div.game-box:has-text(/friday night funkin/i)
