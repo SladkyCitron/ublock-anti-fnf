@@ -5,19 +5,23 @@
 ! GitHub repository: https://github.com/SladkyCitron/ublock-anti-fnf
 ! License: Public domain
 
-! == Domains
+! == Websites
 ||fridaynightfunkin.miraheze.org^
 ||fridaynightfunkin.fandom.com^
-||fnf-betadciu.fandom.com^
+||fridaynightfunking.fandom.com^
+||fnf-*.fandom.com^
 ||fridaynightfunkin.wiki.gg^
 ||friday-night-funkin.net^
 ||fridaynightfunkin.net^
 ||fridaynightfunkin.lol^
 ||fridaynightfunkin.io^
+||fridaynightfunkin.me^
+||fridaynightfunkingames.com^
 ||fnfmods.net^
 ||fnfmods.xyz^
 ||fnfunkin.com^
 ||fnf-mods.com^
+||fnf-mods.org^
 ||funkin.me^
 ||fnfgo.io^
 ||fnfgo.gg^
@@ -29,13 +33,39 @@
 ||fnf.lol^
 ||fnfgo.com^
 ||funkinchan.fun^
+||fnfmod.online^
+||fnf-games.com^
+||playfnf.net^
+||fnf-mod.com^
+||fnfmod.com^
 ||sites.google.com/view/fnfmods^
 ||sites.google.com/view/fnfunblocked^
 ||sites.google.com/view/fnf-unblocked^
 ||sites.google.com/view/fnfunblockedmod^
+||sites.google.com/view/vibe-funkin^
 ||classroom6x.github.io^
 ||totallyscience.co^
 ||fireplayz132.github.io^
+||fridaynight-funkin.github.io^
+||funkymods.github.io^
+||gamaverse.com^
+||v6p9d9t4.ssl.hwcdn.net/html/4132167/bin/index.html^
+||kdata1.com^
+||fnf.kdata1.com^
+||kbhgames.com^
+||files.kbh.games^
+||snokido.com^
+||w8.snokido.com^
+||mikerowesoftazure.azure-cost-estimator.se^
+||math.super-kassa.ru^
+||cdn.jsdelivr.net/gh/PeteZah-G/copy-2/main.svg^
+||bro.brdistan.net^
+||science.albrightscycling.com^
+||cdn.jsdelivr.net/gh/pineapple-petezah/homework/main.svg^
+||sosa.centromariapolis.cl^
+||followmytiktok.centromariapolis.cl^
+||wegondoubleback.gyalsanglama.com.np^
+||weup.casadotricolor.com.br^
 
 ! == Newgrounds + Ungrounded CDN (this WILL break the entire website)
 ||newgrounds.com^
@@ -84,6 +114,9 @@ wikipedia.org##tr:has-text(/The Funkin\' Crew Inc\./)
 ||github.com/3DSFNF/funkin3ds^
 ||github.com/NicktasticDEV/Funkin-Wii^
 ||github.com/FirePlayz132^
+||github.com/drok28/FNF-Mods-Web-Install^
+||github.com/GenoX-Fome/funkin-utau^
+||github.com/theDetourist/blantados-funkin-utau-main^
 ||github.*/assets/images/logoBumpin.xml$xhr,domain=github.io
 ||github.*/assets/images/logoBumpins.xml$xhr,domain=github.io
 github.com##a[href*="FunkinCrew"]
@@ -368,6 +401,13 @@ kawaisprite.bandcamp.com##li.music-grid-item:has-text(/friday night funkin|funki
 discogs.com##tr:has-text(/friday night funkin/i)
 discogs.com##li:has-text(/friday night funkin/i)
 
+! == Needlejuice Records
+||needlejuicerecords.com/collections/friday-night-funkin^
+needlejuicerecords.com##div.card-wrapper:has-text(/friday night funkin/i)
+needlejuicerecords.com##div.collection:has-text(/friday night funkin/i)
+needlejuicerecords.com##p[dir="ltr"]:has-text(/friday night funkin/i)
+needlejuicerecords.com##p[dir="ltr"]:has-text(/kawai sprite/i)
+
 ! == dollchan.net Bytebeat composer
 dollchan.net##div.entry:has-text(/friday night funkin|fnf/i)
 
@@ -429,15 +469,6 @@ mobygames.com##tr:has-text(Friday Night Funkin)
 
 ! == Glitchwave
 glitchwave.com##li#page_discography_line_game_108437
-
-! == KBHGames
-||kdata1.com^
-||kbhgames.com/game/friday-night-funkin^
-||kbhgames.com/tag/friday-night-funkin^
-kbhgames.com##div.boxInner2:has-text(/fnf|friday night funkin/i)
-kbhgames.com##li[itemprop="itemListElement"]:has-text(/fnf|friday night funkin|Wii Funkin’|Wednesday’s Infidelity 2 vs Sad Mickey Mouse/i)
-kbhgames.com##li:has(a[href="https://kbhgames.com/tag/friday-night-funkin"])
-kbhgames.com##a[href="https://kbhgames.com/tag/friday-night-funkin"]
 
 ! == Arcade Spot
 ||arcadespot.com/game/friday-night-funkin^
@@ -617,25 +648,6 @@ gamepix.com##li:has-text(/friday night funkin|friday night|funkin|fnf/i)
 gamepix.com##h2:has-text(FNF)
 gamepix.com##h3:has-text(/friday night funkin/i)
 gamepix.com##p:has-text(/friday night funkin/i)
-
-! == Snokido
-||snokido.*/games/fnf^
-||snokido.*/game/*fnf*
-||snokido.*/game/friday-night-funkin
-||snokido.*/game/pico-night-punkin
-||snokido.*/game/the-tricky-mod
-||snokido.*/game/super-bandit-rip
-||snokido.*/game/*friday-night*
-||snokido.*/game/*funkin*
-snokido.*##li:has-text(/friday night|funkin|fnf|pico night punkin|pico|tricky|super bandit rip/i)
-snokido.*##li:has(a[href*="fnf"])
-snokido.*##li:has(a[href*="friday-night"])
-snokido.*##li:has(a[href*="pico-night-punkin"])
-snokido.*##li:has(a[href*="funkin"])
-snokido.*##li:has(a[href*="the-tricky-mod"])
-snokido.*##li:has(a[href*="super-bandit-rip"])
-snokido.*##div.homecat:has-text(FNF Mods)
-snokido.*##p:has-text(/friday night funkin/i)
 
 ! == onlinegames.io
 onlinegames.io##div.game-box:has-text(/friday night funkin/i)
