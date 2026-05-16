@@ -261,6 +261,7 @@ y8.com##li:has(a.tag-item[title="FNF"])
 
 ! == GameBanana
 ||gamebanana.com/games/8694^
+||gamebanana.com/mods/games/8694^
 ||images.gamebanana.com/img/ico/games/62082c1edaf3d.png^
 ||images.gamebanana.com/img/ico/ModCategory/68796321e4997.png^
 ||gamebanana.com/mods/358769^
@@ -269,6 +270,7 @@ y8.com##li:has(a.tag-item[title="FNF"])
 ||images.gamebanana.com/img/av/66c1df254936b.png^
 ||images.gamebanana.com/img/upic/66c1e2f8b5343.png^
 ||images.gamebanana.com/img/sig/66d448b7dbba1.png^
+||images.gamebanana.com/img/av/68762f4fe3da0.jpg^
 gamebanana.com##a[href="https://gamebanana.com/games/8694"]
 gamebanana.com##img[alt="Friday Night Funkin' icon"]
 gamebanana.com##img[src="https://images.gamebanana.com/img/ico/ModCategory/68796321e4997.png"]
@@ -278,6 +280,7 @@ gamebanana.com##a.SubmissionCard.Preview:has(img[alt="Friday Night Funkin' icon"
 gamebanana.com##a.SubmissionCard.Preview:has-text(/friday night funkin|funkin|fnf/i)
 gamebanana.com##div.swiper-slide:has(img[alt="Friday Night Funkin' icon"])
 gamebanana.com##div.Post.Flow:has(img[src="https://images.gamebanana.com/img/av/66c1df254936b.png"])
+gamebanana.com##div.Post.Flow:has(img[src="https://images.gamebanana.com/img/av/68762f4fe3da0.jpg"])
 gamebanana.com##a[href*="/search"]:has-text(/fnf/i)
 gamebanana.com##a[href*="/search"]:has-text(/funkin/i)
 gamebanana.com##a[href*="/search"]:has-text(/friday\s*night\s*funkin/i)
