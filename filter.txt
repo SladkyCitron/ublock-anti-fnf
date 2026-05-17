@@ -327,6 +327,12 @@ gamebanana.com##a[href*="/search"]:has-text(/kawaisprite/i)
 gamebanana.com##a[href*="/search"]:has-text(/phantomarcade/i)
 gamebanana.com##a[href*="/search"]:has-text(/evilsk8r/i)
 
+! == Checkpoint
+checkpoint.cc##div.Request:has-text(Friday Night Funkin)
+checkpoint.cc##div.Card:has-text(Friday Night Funkin)
+checkpoint.cc##div.checkbox:has-text(Friday Night Funkin)
+checkpoint.cc##a.Card:has-text(Friday Night Funkin)
+
 ! == Game Jolt
 ||s.gjcdn.net/assets/bISqy-PT.png^
 ||gamejolt.com/games/tag-fnf^
