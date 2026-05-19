@@ -74,6 +74,7 @@
 ||ngfiles.com^
 ||kawaisprite.newgrounds.com^
 ||ninjamuffin99.newgrounds.com^
+||kiddbrute.newgrounds.com^
 
 ! == Wikipedia
 ||en.wikipedia.org/wiki/Friday_Night_Funkin^
@@ -688,3 +689,12 @@ vgfacts.com##div.browse-game-container:has(a[href*="/game/fridaynightfunkin/"])
 vgfacts.com##div.browse-game-container:has(a[href*="/game/fridaynightfunkinvssonicexe/"])
 vgfacts.com##div.trivia-container:has(a[href*="/game/fridaynightfunkin/"])
 vgfacts.com##div.trivia-container:has(a[href*="/game/fridaynightfunkinvssonicexe/"])
+
+! == tcrf
+||tcrf.net/Prerelease:Friday_Night_Funkin%27^
+||tcrf.net/Friday_Night_Funkin%27^
+tcrf.net##li:has(a[href*="Friday_Night_Funkin"])
+
+! == OSTDB
+||ostdb.net/games/friday-night-funkin^
+ostdb.net##a[href*="/games/friday-night-funkin"]
