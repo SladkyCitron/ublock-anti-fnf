@@ -663,3 +663,17 @@ onlinegames.io##div.game-box:has-text(/friday night funkin/i)
 
 ! == arcadespot.com
 arcadespot.com##li:has-text(/pico night punkin/i)
+
+! == The Spriters Resource
+||*.spriters-resource.com/pc_computer/fridaynightfunkin^
+||*.spriters-resource.com/browser_games/fridaynightfunkin^
+||models-resource.com/pc_computer/fridaynightfunkin^
+||models-resource.com/browser_games/fridaynightfunkin^
+||spriters-resource.com/pc_computer/fridaynightfunkin^
+||spriters-resource.com/browser_games/fridaynightfunkin^
+||sounds-resource.com/pc_computer/fridaynightfunkin^
+||sounds-resource.com/browser_games/fridaynightfunkin^
+spriters-resource.com##a[href*="/browser_games/fridaynightfunkin/"]
+spriters-resource.com##a[href*="/pc_computer/fridaynightfunkin/"]
+*.spriters-resource.com##a[href*="/browser_games/fridaynightfunkin/"]
+*.spriters-resource.com##a[href*="/pc_computer/fridaynightfunkin/"]
