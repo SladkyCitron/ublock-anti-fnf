@@ -122,6 +122,9 @@ wikipedia.org##tr:has-text(/The Funkin\' Crew Inc\./)
 github.com##a[href*="FunkinCrew"]
 github.com##span.repo:has-text(/funkin/i)
 
+! == DuckDuckGo
+duckduckgo.com##li:has-text(/friday night funkin|fnf/i)
+
 ! == X (formerly known as Twitter)
 ||x.com/kawaisprite^
 ||x.com/ninjamuffin99^
