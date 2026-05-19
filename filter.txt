@@ -677,3 +677,11 @@ spriters-resource.com##a[href*="/browser_games/fridaynightfunkin/"]
 spriters-resource.com##a[href*="/pc_computer/fridaynightfunkin/"]
 *.spriters-resource.com##a[href*="/browser_games/fridaynightfunkin/"]
 *.spriters-resource.com##a[href*="/pc_computer/fridaynightfunkin/"]
+
+! == vgfacts
+||vgfacts.com/game/fridaynightfunkin^
+||vgfacts.com/game/fridaynightfunkinvssonicexe^
+vgfacts.com##div.browse-game-container:has(a[href*="/game/fridaynightfunkin/"])
+vgfacts.com##div.browse-game-container:has(a[href*="/game/fridaynightfunkinvssonicexe/"])
+vgfacts.com##div.trivia-container:has(a[href*="/game/fridaynightfunkin/"])
+vgfacts.com##div.trivia-container:has(a[href*="/game/fridaynightfunkinvssonicexe/"])
