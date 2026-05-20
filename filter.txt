@@ -281,6 +281,8 @@ y8.com##li:has(a.tag-item[title="FNF"])
 ||images.gamebanana.com/img/upic/66c1e2f8b5343.png^
 ||images.gamebanana.com/img/sig/66d448b7dbba1.png^
 ||images.gamebanana.com/img/av/68762f4fe3da0.jpg^
+||images.gamebanana.com/img/Webpage/Game/Profile/Background/67cb3a1754c4c.png^
+gamebanana.com##html:has(img[src="https://images.gamebanana.com/img/Webpage/Game/Profile/Background/67cb3a1754c4c.png"])
 gamebanana.com##a[href="https://gamebanana.com/games/8694"]
 gamebanana.com##img[alt="Friday Night Funkin' icon"]
 gamebanana.com##img[src="https://images.gamebanana.com/img/ico/ModCategory/68796321e4997.png"]
