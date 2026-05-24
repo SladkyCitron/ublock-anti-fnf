@@ -710,3 +710,16 @@ ostdb.net##a[href*="/games/friday-night-funkin"]
 ! == HaxeFlixel
 ||haxeflixel.com/img/kmEBHiT7RC-500.png^
 haxeflixel.com##div.showcase-game:has(a[href="https://ninja-muffin24.itch.io/funkin"])
+
+! == StepMania Online
+stepmaniaonline.net##tr:has-text(/friday night funkin|fnf/i)
+
+! == IGDB
+||igdb.com/games/friday-night-funkin-b-side-remixes^
+||igdb.com/games/friday-night-funkin^
+igdb.com##div.col-md-6.mar-lg-bottom:has-text(/funkin|fnf/i)
+
+! == VGMdb
+||vgmdb.net/artist/37112^
+vgmdb.net##a[href*="/artist/37112"]
+vgmdb.net##a:has-text(/friday night funkin/i)
